@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "Makefile": "bat",
+        "iosfwd": "cpp"
+    }
+}
