@@ -22,3 +22,5 @@ int main(){
     cout<<Fraction(2,-4)<<endl;
     return 0;
 }
+
+//我是一只兔子，喜欢吃菜叶子和胡萝卜
